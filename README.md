@@ -1,0 +1,1 @@
+O usuário deve inserir o valor gasto e o programa retornará o valor separado da gorjeta, e o valor total a ser pago, somado à gorjeta.
